@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./enumeratioplanta03kunt_0663.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2181 408 2912 3356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2181 408 2912 3356">
+     <span class='ocr_line' id='line_1_1' title="bbox 2181 408 2912 3356"><span class='ocrx_word' id='word_1_1' title='bbox 2181 408 2912 3356; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 100 16 285 2098">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 100 16 285 2098">
+     <span class='ocr_line' id='line_1_2' title="bbox 100 16 285 2098"><span class='ocrx_word' id='word_1_2' title='bbox 100 16 285 2098; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 278 3581 289 4194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 278 3581 289 4194">
+     <span class='ocr_line' id='line_1_3' title="bbox 278 3581 289 4194; baseline 204.333 -817.333"><span class='ocrx_word' id='word_1_3' title='bbox 279 3581 289 3603; x_wconf 58' lang='lat' dir='ltr'>..s</span> <span class='ocrx_word' id='word_1_4' title='bbox 279 3614 281 3619; x_wconf 89' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 278 3630 283 3646; x_wconf 58' lang='lat' dir='ltr'>a&lt;</span> <span class='ocrx_word' id='word_1_6' title='bbox 280 3655 283 3669; x_wconf 83' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_7' title='bbox 279 3678 287 4194; x_wconf 48' lang='grc' dir='ltr'>ἷξειζίιΐὲίίῖἰὶίίπ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
